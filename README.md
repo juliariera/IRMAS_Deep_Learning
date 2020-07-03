@@ -44,7 +44,7 @@ Built With
 Authors
 ------
 * [Claudia Herron Mulet](https://www.linkedin.com/in/claudiaherronmulet/) (claudia.herron01@estudiant.upf.edu)  
-* [Júlia Riera Perramón] (https://www.linkedin.com/in/julia-riera-perramon/) (julia.riera02@estudiant.upf.edu)
+* [Júlia Riera Perramón](https://www.linkedin.com/in/julia-riera-perramon/) (julia.riera02@estudiant.upf.edu)
 * [Sara Estévez Manteiga](www.linkedin.com/in/saraestevezmanteiga/) (sara.estevez02@estudiant.upf.edu)
 
 Mathematical Engineering in Data Science students at UPF.
